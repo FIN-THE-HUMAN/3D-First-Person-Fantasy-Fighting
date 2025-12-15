@@ -102,8 +102,9 @@ InitTestScene*.unity*
 # Third-party Asset Store packages
 ########################################
 
-# Ignore ALL third-party assets
+# Ignore third-party assets
 /Assets/ThirdParty/**
+/Assets/ThirdParty.meta
 
-# Keep folder structure
+# Keep folder
 !/Assets/ThirdParty/.gitkeep
